@@ -1,0 +1,40 @@
+.header-card-main{
+    width: auto;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.length{
+    color: rgb(113, 105, 105);
+}
+
+.first-content{
+    display: flex;
+    align-items: center;
+}
+
+.header-card-icon{
+    margin-left: 3px;
+    border: 1px solid rgb(105, 96, 96);
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+}
+.second-content{
+    display: flex;
+    align-items: center;
+}
+.plus{
+    font-size: 15px;
+}
+
+
+.dots{
+    margin-left: 10px;
+}
+.header-card-text{
+    margin: 0 4px;
+}
